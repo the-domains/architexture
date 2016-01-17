@@ -1,0 +1,40 @@
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+color:
+  saturation: 0.1146953
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#BFBFBF'
+    - '#7F7F7F'
+    - '#404040'
+  rhythmicContrast: 0.1362007
+typography_spectrum: 0.9014337
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7013454213738441
+favicon: null
+name: 'Architexture '
