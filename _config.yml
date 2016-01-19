@@ -1,7 +1,19 @@
 name: 'Architexture '
 favicon: null
-layout_spectrum: 0.7013454213738441
-typography_spectrum: 0.8527146682608873
+layout_spectrum: 0.781362
+typography_spectrum: 0.9014337
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 cta:
   domain: null
   bucket: null
@@ -16,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.7089067935012281
-  lightness: 0.8363006869331002
-  saturation: 0.6965478130150586
-  rhythmicContrast: 0.9843948294874281
+    - '#FFFFFF'
+    - '#000000'
+    - '#BFBFBF'
+    - '#7F7F7F'
+    - '#404040'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
