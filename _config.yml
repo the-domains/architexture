@@ -1,7 +1,7 @@
 name: 'Architexture '
 favicon: null
 layout_spectrum: 0.01213
-typography_spectrum: 0
+typography_spectrum: 0.49741
 collections:
   - index:
       path: /
